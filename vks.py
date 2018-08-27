@@ -1,3 +1,4 @@
+ # -*- coding: utf-8 -*- 
 import vk_api
 import datetime # работа с датой и временем
 import time
